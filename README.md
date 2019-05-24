@@ -1,4 +1,4 @@
-#weather-app
+# weather-app
 
 Simple app that is sort of a google weather clone.
 
