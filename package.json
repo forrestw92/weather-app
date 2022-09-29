@@ -18,7 +18,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "recharts": "^1.6.2"
+    "recharts": "^2.1.14"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
